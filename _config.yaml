@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://arjunnair1997.github.io"
 twitter_username: bananabrick2
 github_username: arjunnair1997
+substack_username: visualtransporter
 
 # Build settings
 theme: minima
