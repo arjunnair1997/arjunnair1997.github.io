@@ -10,6 +10,3 @@ github_username: arjunnair1997
 # Build settings
 theme: minima
 permalink: /:title/
-
-plugins:
-  - jekyll-feed
