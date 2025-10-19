@@ -2,12 +2,14 @@
 title: Thinkers Journey
 description: >-
   Thinking about thinking
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" 
 url: "https://arjunnair1997.github.io"
 twitter_username: bananabrick2
-github_username:  arjunnair1997
+github_username: arjunnair1997
 
 # Build settings
 theme: minima
+permalink: /:title/
+
 plugins:
   - jekyll-feed
