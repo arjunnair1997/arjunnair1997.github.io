@@ -5,12 +5,16 @@ title: Home
 
 ## About
 
-I'm an engineer. Currently I work at [Warpstream Labs](https://www.warpstream.com/). I truly enjoy thinking, running experiments, climbing, and reading.
+I'm an engineer. I love thinking, running experiments, climbing, and reading.
+
+Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve hardcore problems. My proudest achievement at my job so far is making the most crucial bottleneck in the system 3x faster allowing the system to handle unimaginable workloads!
+
 
 ## Writing
 
 - [Notes on writing correct software](https://visualtransporter.substack.com/p/notes-on-writing-correct-software) - Hear me out!
 - [The thinking framework](https://visualtransporter.substack.com/p/the-thinking-framework) - How I attempt to understand my mind.
+
 
 ## Climbing Wall
 
