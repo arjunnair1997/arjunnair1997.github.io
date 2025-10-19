@@ -9,5 +9,4 @@ title: Home
 
 ## About
 
-I'm a deeply introspective person who struggles to convert my thoughts
-into words. Here, I will overcome that.
+Converting thoughts into words.
