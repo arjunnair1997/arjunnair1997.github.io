@@ -20,7 +20,7 @@ Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve
 
 ## Climbing Wall
 
-This is my climbing wall which I built from scratch using my own two hands! It is 50 degrees overhanging from vertical and has holds
+This is my climbing wall which I built from scratch using my own two hands! It is 50 degrees overhanging from vertical and has some holds
 which are less than 10mm deep. Awesome. The wall is 9.5 feet tall along the incline and 8 feet wide.
 
 ![Climbing Wall](assets/climbing_wall.jpeg)
