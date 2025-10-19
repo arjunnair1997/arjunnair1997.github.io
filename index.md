@@ -5,7 +5,7 @@ title: Home
 
 ## Writing
 
-- [Test Post](/2025/10/18/test.html) - A sample blog post showing Markdown features
+- [Test Post](/test/) - A sample blog post showing Markdown features
 
 ## About
 
