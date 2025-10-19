@@ -3,9 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Blog
-
-Here you'll find my latest posts and thoughts.
+# I'm a deeply introspective person who struggles to convert my thoughts
+# into words. Here, I will overcome that.
 
 ## Featured Posts
 
