@@ -9,7 +9,7 @@ I'm an engineer. I love thinking, running experiments, climbing, and reading.
 
 I seek to have new thoughts which haven't existed in the world yet.
 
-Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve hardcore problems. My proudest achievement at my job so far is making the most crucial bottleneck in the system 3x faster allowing the system to handle unimaginable workloads!
+Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve hardcore problems. My proudest technical achievement at my job so far is making the most crucial bottleneck in the system 3x faster allowing the system to handle unimaginable workloads!
 
 
 ## Writing
