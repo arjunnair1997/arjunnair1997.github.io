@@ -7,7 +7,7 @@ title: Home
 
 I'm an engineer. I love thinking, running experiments, climbing, and reading.
 
-I seek to have new thoughts which haven't existed in the world yet.
+I seek to have new thoughts which haven't existed in the world yet. Read the [The thinking framework](https://visualtransporter.substack.com/p/the-thinking-framework) which is my plan to tackle the problem of innovation.
 
 Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve hardcore problems. My proudest technical achievement at my job so far is making the most crucial bottleneck in the system 3x faster allowing the system to handle unimaginable workloads!
 
