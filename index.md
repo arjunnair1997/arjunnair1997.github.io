@@ -16,6 +16,7 @@ Currently I work at [Warpstream Labs](https://www.warpstream.com/) where I solve
 
 - [Notes on writing correct software](https://visualtransporter.substack.com/p/notes-on-writing-correct-software) - Hear me out!
 - [The thinking framework](https://visualtransporter.substack.com/p/the-thinking-framework) - How I attempt to understand my mind.
+- [Living in alignment](https://visualtransporter.substack.com/p/living-in-alignment-not-enlightenment) - How I live
 
 
 ## Climbing Wall
